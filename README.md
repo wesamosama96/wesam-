@@ -11,8 +11,8 @@
 
 🎓 *Training:* 
 
-- Software Development Training @ ITI  
-- MERN Stack Training @ DEPI (Digital Egypt Pioneers Initiative)
+- Software Development-Apprenticeship @ Digilians (the Egyptian Military Academy )
+- DevOps Training @ DEPI (Digital Egypt Pioneers Initiative)
 
 ---
 
@@ -56,14 +56,14 @@ Each project reflects my technical expertise and problem-solving skills to build
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mostafa-Talaat98&show_icons=true&theme=dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mostafa-Talaat98&layout=compact&theme=dark) 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wesam-Osama1&show_icons=true&theme=dark)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Wesam-Osama1&layout=compact&theme=dark)
 
 ---
 
 💬 Let's Connect
 
-**[LinkedIn](https://www.linkedin.com/in/mostafa-talaat-214878162)**  
+**[LinkedIn](www.linkedin.com/in/wesam-osama)**  
 
 
 Thanks for visiting my GitHub! Feel free to explore my repositories and reach out to discuss collaboration or share ideas.
