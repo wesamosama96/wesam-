@@ -1,9 +1,9 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2390EE90&size=32&center=true&vCenter=true&width=600&height=50&lines=Hello+I'm+Mustafa+Talaat+%F0%9F%91%8B;Full+Stack+Developer;MERN+Stack+Developer;React.js+%26+Node.js+%26+Expressjs)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=90EE90&center=true&vCenter=true&width=1000&height=50&lines=Hello+I'm+Wesam+Osama+%F0%9F%91%8B;Junior+Software+Developer;DevOps+Enthusiast;Linux+|+Git+|+GitHub;CI/CD+|+Docker+|+Kubernetes;Terraform+|+Ansible+|+AWS)](https://git.io/typing-svg)
 
 
 🌍 From: Cairo, Egypt 
 
-💼 *Current Role:* Full Stack Developer 
+💼 *Current Role:* DevOps Engineer
 
 🎓 *Education:*
 
