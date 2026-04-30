@@ -13,16 +13,9 @@
 
 - Software Development-Apprenticeship @ Digilians (the Egyptian Military Academy )
 - DevOps Training @ DEPI (Digital Egypt Pioneers Initiative)
-
----
-
-## 🚀 Technologies I Work With
-
-### 🔧 Backend Development:
-- ![React](https://img.shields.io/badge/-React.js-61DAFB?logo=react&logoColor=white) Dynamic and interactive user interfaces.
-- ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) Scalable backend solutions.
-- ![Express](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white) Efficient API development.
-- ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) Database design and management.
+ ---
+ 
+  ## 🚀 Technologies I Work With
 
 ### ⚙️ DevOps & Tools:
 - ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black) Operating system administration and scripting.
@@ -36,8 +29,16 @@
 - ![AWS](https://img.shields.io/badge/-AWS-FF9900?logo=amazon-aws&logoColor=white) Cloud infrastructure and services.
 
 ### 🎨 Frontend Development:
-- ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) Strongly typed JS for scalable apps.
+- ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) Building structured and accessible web content.
+- ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) Crafting modern and responsive user interfaces.
+- ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white) Speeding up development with component-based styling.
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) Dynamic and interactive web components.
+
+### 🔧 Backend Development:
+- ![React](https://img.shields.io/badge/-React.js-61DAFB?logo=react&logoColor=white) Dynamic and interactive user interfaces.
+- ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) Scalable backend solutions.
+- ![Express](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white) Efficient API development.
+- ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) Database design and management.
 
 ### 💡 Problem Solving:
 - ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white) Actively solving challenges using C++ to enhance algorithmic skills.
