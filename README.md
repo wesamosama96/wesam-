@@ -7,7 +7,7 @@
 
 🎓 *Education:*
 
-Ahram Canadian University , Faculty of Computer Science
+6 October University , Faculty of Engineering and Technology
 
 🎓 *Training:* 
 
