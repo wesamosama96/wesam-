@@ -25,9 +25,15 @@
 - ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) Database design and management.
 
 ### ⚙️ DevOps & Tools:
-- ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) Containerization and deployment.
-- ![AWS](https://img.shields.io/badge/-AWS-FF9900?logo=amazon-aws&logoColor=white) Cloud infrastructure & hosting.
-- ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) Version control & collaboration.
+- ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black) Operating system administration and scripting.
+- ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white) 
+ Version control and collaborative development.
+- ![CI/CD](https://img.shields.io/badge/-CI%2FCD-FF69B4?logo=github-actions&logoColor=white) Automating builds, tests, and deployments.
+- ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) Containerization and microservices management.
+- ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white) Container orchestration and cluster management.
+- ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?logo=terraform&logoColor=white) Infrastructure as Code (IaC) specialist.
+- ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?logo=ansible&logoColor=white) Configuration management and automation.
+- ![AWS](https://img.shields.io/badge/-AWS-FF9900?logo=amazon-aws&logoColor=white) Cloud infrastructure and services.
 
 ### 🎨 Frontend Development:
 - ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) Strongly typed JS for scalable apps.
