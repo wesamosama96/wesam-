@@ -34,7 +34,7 @@
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) Dynamic and interactive web components.
 
 ### 💡 Problem Solving:
-- ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white) ![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode&logoColor=white) Actively solving challenges using C++ to enhance algorithmic skills.
+- ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white) Actively solving challenges using C++ to enhance algorithmic skills.
 ---
 
 ## 🛠️ What I'm Working On
